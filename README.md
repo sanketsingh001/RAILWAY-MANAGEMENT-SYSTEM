@@ -2,6 +2,7 @@
 6th semester Database Management System Project on Railway Management System.
 
 It involves creation of database,normalisation,creating triggers and writing complex sql queries. Complete details can be found in the report: 
+https://github.com/or6857/RAILWAY-MANAGEMENT-SYSTEM
 
 
 
