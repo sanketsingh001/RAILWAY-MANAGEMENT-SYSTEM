@@ -23,7 +23,7 @@ https://github.com/or6857/RAILWAY-MANAGEMENT-SYSTEM
 
 
 
-DONE BY:
+DONE BY
 
 RA1911032010028 - Om Rajput
 
